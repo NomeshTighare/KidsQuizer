@@ -15,6 +15,13 @@
         <entry key="..\:/QuizAppKotlinAndroid/app/src/main/res/layout/activity_select_sub.xml" value="0.2" />
         <entry key="..\:/QuizAppKotlinAndroid/app/src/main/res/layout/activity_stand.xml" value="0.2" />
         <entry key="..\:/QuizAppKotlinAndroid/app/src/main/res/layout/activity_std1.xml" value="0.2" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_main.xml" value="0.16203703703703703" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questions.xml" value="0.1" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd1math.xml" value="0.1" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_reg.xml" value="0.1" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_results.xml" value="0.1" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_select_sub.xml" value="0.1" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std1.xml" value="0.22" />
         <entry key="app/src/main/res/drawable/default_option_border.xml" value="0.179296875" />
         <entry key="app/src/main/res/drawable/option_border.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/drawable/selected_option_border.xml" value="0.179296875" />
