@@ -24,7 +24,7 @@ class ResultsActivity : AppCompatActivity() {
             startActivity(
                 Intent(
                     this,
-                    MainActivity::class.java,
+                    EnterNameActivity::class.java,
                 )
             )
 

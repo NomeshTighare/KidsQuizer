@@ -15,10 +15,10 @@ class Stand_Activity : AppCompatActivity() {
         val btn_2: Button = findViewById(R.id.btn_2)
         val btn_3: Button = findViewById(R.id.btn_3)
         val btn_4: Button = findViewById(R.id.btn_4)
-
+        val btn_5: Button = findViewById(R.id.btn_5)
 
         btn_back.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, EnterNameActivity::class.java)
             startActivity(intent)
             finish()
         }
@@ -30,13 +30,13 @@ class Stand_Activity : AppCompatActivity() {
         }
 
         btn_2.setOnClickListener {
-            val intent = Intent(this, Std1_Activity::class.java)
+            val intent = Intent(this, Std2_Activity::class.java)
             startActivity(intent)
             finish()
         }
 
         btn_3.setOnClickListener {
-            val intent = Intent(this, Std1_Activity::class.java)
+            val intent = Intent(this, Std3_Activity::class.java)
             startActivity(intent)
             finish()
         }
@@ -46,6 +46,10 @@ class Stand_Activity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
-
+        btn_5.setOnClickListener {
+            val intent = Intent(this, Std1_Activity::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
 }

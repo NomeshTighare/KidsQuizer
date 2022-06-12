@@ -8,10 +8,10 @@ import android.os.Bundle
 import androidx.core.content.ContextCompat
 
 
-import kotlinx.android.synthetic.main.activity_questionsstd1math.*
+import kotlinx.android.synthetic.main.activity_questionsstd3evn.*
 
 
-class QuestionsStd1Math : AppCompatActivity() {
+class QuestionsStd3Evn : AppCompatActivity() {
     private var currentQuestionId = -1
     private var selectedAnswers = mutableMapOf<Int, String>()
 
@@ -19,10 +19,10 @@ class QuestionsStd1Math : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_questionsstd1math)
+        setContentView(R.layout.activity_questionsstd3evn)
 
         val allOptions = arrayListOf(tvOption1, tvOption2, tvOption3, tvOption4)
-        val questions: ArrayList<QuestionStd1Math> = getQuestionsStd1Math()
+        val questions: ArrayList<QuestionStd3Evn> = getQuestionsStd3Evn()
 
         fun changeQuestion() {
             // Go to results screen if it's the end of questions Array

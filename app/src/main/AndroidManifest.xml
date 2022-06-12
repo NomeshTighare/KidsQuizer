@@ -13,7 +13,16 @@
         android:theme="@style/Theme.Quizer">
         <activity
             android:name="com.ntech.quizer.Std1_Activity"
-            android:exported="false" />
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ntech.quizer.Std2_Activity"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.ntech.quizer.Std3_Activity"
+            android:exported="true"
+            android:screenOrientation="portrait"/>
         <activity
             android:name="com.ntech.quizer.EnterNameActivity"
             android:exported="true"
@@ -50,6 +59,46 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.ntech.quizer.QuestionsStd1Math"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd1English"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd1Gkn"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd2Math"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd2English"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd2Gkn"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd2Evn"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd3Math"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd3English"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd3Gkn"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd3Evn"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
