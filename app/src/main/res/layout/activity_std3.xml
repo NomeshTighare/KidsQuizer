@@ -90,7 +90,7 @@
         android:background="#2C9C98"
         android:gravity="left|fill_vertical"
         android:paddingLeft="20dp"
-        android:text="Enviromental Studies"
+        android:text="Science"
         android:textColor="@color/black"
         android:textSize="22sp"
         android:textStyle="bold"

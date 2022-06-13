@@ -1,6 +1,6 @@
 package com.ntech.quizer
 
-data class QuestionStd3Evn(
+data class QuestionStd4Science(
     val id: Int,
     val text: String,
     val option1: String,
@@ -11,12 +11,12 @@ data class QuestionStd3Evn(
 )
 
 
-fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
-    val questions = ArrayList<QuestionStd3Evn>()
+fun getQuestionsStd4Science(): ArrayList<QuestionStd4Science> {
+    val questions = ArrayList<QuestionStd4Science>()
 
 
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             0,
             "We need water to",
             "live",
@@ -27,7 +27,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             1,
             "water is ____",
             "matter",
@@ -39,7 +39,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
     )
 
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             2,
             "water is available in nature as ",
             "all of these",
@@ -51,7 +51,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
     )
 
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             3,
             "Most of the water on earth is in ____ form",
             "liquid",
@@ -62,7 +62,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             4,
             "water in the liquid form has",
             "all of these",
@@ -73,7 +73,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             5,
             "water takes the ____ of the container it is poured in",
             "shape",
@@ -84,7 +84,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             6,
             "substance that dissolve in water are called ____ substances",
             "soluble",
@@ -96,7 +96,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
             )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             7,
             "water is good",
             "food",
@@ -107,7 +107,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             8,
             "we can use water for",
             "all above",
@@ -118,7 +118,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             9,
             "A substance which is formed by mixing solute into solvent",
             "solution",
@@ -129,7 +129,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             10,
             "sand is ____ in water",
             "insoluble",
@@ -140,7 +140,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             11,
             "substances that do not dissolve in water are called",
             "insoluble",
@@ -151,7 +151,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             12,
             "wood ____ on the water",
             "floats",
@@ -162,7 +162,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
         )
     )
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             13,
             "nail",
             "sinks",
@@ -174,7 +174,7 @@ fun getQuestionsStd3Evn(): ArrayList<QuestionStd3Evn> {
     )
 
     questions.add(
-        QuestionStd3Evn(
+        QuestionStd4Science(
             14,
             "cotton wool",
             "sinks",

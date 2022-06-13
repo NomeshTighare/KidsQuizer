@@ -1,6 +1,6 @@
 package com.ntech.quizer
 
-data class QuestionStd3English(
+data class QuestionStd5English(
     val id: Int,
     val text: String,
     val option1: String,
@@ -11,12 +11,12 @@ data class QuestionStd3English(
 )
 
 
-fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
-    val questions = ArrayList<QuestionStd3English>()
+fun getQuestionsStd5English(): ArrayList<QuestionStd5English> {
+    val questions = ArrayList<QuestionStd5English>()
 
 
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             0,
             "a,e,i,o,u are",
             "vowels",
@@ -27,7 +27,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             1,
             "we use a and an with",
             "single nouns",
@@ -39,7 +39,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
     )
 
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             2,
             "if a word beings with a consonant or a consonant sound, we use _____ before it?",
             "an",
@@ -51,7 +51,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
     )
 
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             3,
             "if a words beings with a vowel or vowel sound, we use",
             "an",
@@ -62,7 +62,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             4,
             "we use ____ with nouns that are one of their kind",
             "a",
@@ -73,7 +73,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             5,
             "i am fond of _____ classical music",
             "a",
@@ -84,7 +84,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             6,
             "i met ____ boy in the store",
             "a",
@@ -96,7 +96,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             7,
             "____ boy i met was badly injured",
             "The",
@@ -107,7 +107,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             8,
             "She returned after ____ hour",
             "an",
@@ -118,7 +118,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             9,
             "it is ____ most expensive hotel in ____ town",
             "a, the",
@@ -129,7 +129,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             10,
             "My room is on ____ second floor",
             "the",
@@ -140,7 +140,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             11,
             " ____ easy answer",
             "an",
@@ -151,7 +151,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             12,
             "____ omelette",
             "an",
@@ -162,7 +162,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
         )
     )
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             13,
             "____ uniform",
             "none",
@@ -174,7 +174,7 @@ fun getQuestionsStd3English(): ArrayList<QuestionStd3English> {
     )
 
     questions.add(
-        QuestionStd3English(
+        QuestionStd5English(
             14,
             "____ useful thing",
             "a",

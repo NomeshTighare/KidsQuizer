@@ -1,6 +1,6 @@
 package com.ntech.quizer
 
-data class QuestionStd3Math(
+data class QuestionStd4Math(
     val id: Int,
     val text: String,
     val option1: String,
@@ -11,12 +11,12 @@ data class QuestionStd3Math(
 )
 
 
-fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
-    val questions = ArrayList<QuestionStd3Math>()
+fun getQuestionsStd4Math(): ArrayList<QuestionStd4Math> {
+    val questions = ArrayList<QuestionStd4Math>()
 
 
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             0,
             "How many hours are there in a day?",
             "24 hours",
@@ -27,7 +27,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             1,
             "How many minutes are there in an hour?",
             "40 minutes",
@@ -39,7 +39,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
     )
 
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             2,
             "1 L is equal to how many grams?",
             "1000 ml",
@@ -51,7 +51,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
     )
 
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             3,
             "The length of a field can be measured in Millimetres/Metres/Kilometres?",
             "Miligrams",
@@ -62,7 +62,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             4,
             "The distance between Mumbai and Hyderabad can be measured in Centimetres/ Metres/Kilometres?",
             "Miligrams",
@@ -73,7 +73,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             5,
             "When a number is multiplied by zero, the answer you get is always __?",
             "Zero",
@@ -84,7 +84,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             6,
             "425 x 1= ___?",
             "425",
@@ -95,7 +95,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             7,
             "555 x 10= ___?",
             "555",
@@ -106,7 +106,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             8,
             "The largest 4 digit number is?",
             "5555",
@@ -117,7 +117,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             9,
             "Who successfully built and flew the world’s first Aeroplane?",
             "The Wright Brothers",
@@ -128,7 +128,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             10,
             " 425 + 30 = _ + 425?",
             "55",
@@ -139,7 +139,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             11,
             "425 + 0 = _?",
             "425",
@@ -150,7 +150,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             12,
             "425 + 0 = _?",
             "425",
@@ -161,7 +161,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
         )
     )
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             13,
             "1789 – __ = 1789?",
             "0",
@@ -173,7 +173,7 @@ fun getQuestionsStd3Math(): ArrayList<QuestionStd3Math> {
     )
 
     questions.add(
-        QuestionStd3Math(
+        QuestionStd4Math(
             14,
             "Eight o’clock in the evening is 8 am or 8 pm?",
             "6 PM",

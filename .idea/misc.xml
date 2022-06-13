@@ -20,20 +20,32 @@
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questions.xml" value="0.1" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd1english.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd1gkn.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd1marathi.xml" value="0.16018518518518518" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd1math.xml" value="0.1" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd2english.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd2evn.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd2gkn.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd2math.xml" value="0.16018518518518518" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd3english.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd3evn.xml" value="0.16018518518518518" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd3gkn.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd3math.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd4english.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd4marathi.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd4math.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd4science.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd5english.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd5history.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd5marathi.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_questionsstd5math.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_reg.xml" value="0.1" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_results.xml" value="0.1" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_select_sub.xml" value="0.1" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std1.xml" value="0.22" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std2.xml" value="0.20416666666666666" />
         <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std3.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std4.xml" value="0.20416666666666666" />
+        <entry key="..\:/kidsQuizer/app/src/main/res/layout/activity_std5.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/drawable/default_option_border.xml" value="0.179296875" />
         <entry key="app/src/main/res/drawable/option_border.xml" value="0.2557291666666667" />
         <entry key="app/src/main/res/drawable/selected_option_border.xml" value="0.179296875" />

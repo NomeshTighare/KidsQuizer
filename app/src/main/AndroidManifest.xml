@@ -70,6 +70,10 @@
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.ntech.quizer.QuestionsStd1Marathi"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.ntech.quizer.QuestionsStd2Math"
             android:exported="true"
             android:screenOrientation="portrait" />
@@ -99,6 +103,38 @@
             android:screenOrientation="portrait" />
         <activity
             android:name="com.ntech.quizer.QuestionsStd3Evn"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd4Math"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd4English"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd4Marathi"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd4Science"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd5Math"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd5English"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd5History"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ntech.quizer.QuestionsStd5Marathi"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity
