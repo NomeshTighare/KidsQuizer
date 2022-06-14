@@ -42,12 +42,12 @@ class Stand_Activity : AppCompatActivity() {
         }
 
         btn_4.setOnClickListener {
-            val intent = Intent(this, Std1_Activity::class.java)
+            val intent = Intent(this, Std4_Activity::class.java)
             startActivity(intent)
             finish()
         }
         btn_5.setOnClickListener {
-            val intent = Intent(this, Std1_Activity::class.java)
+            val intent = Intent(this, Std5_Activity::class.java)
             startActivity(intent)
             finish()
         }
